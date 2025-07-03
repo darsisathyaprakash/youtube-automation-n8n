@@ -75,6 +75,15 @@ I’m **Sathya Prakash Darsi**, currently learning **AI automation** and **workf
 📬 [My Portfolio](https://sathya-protfilo-web.netlify.app)
 
 [🎥 Click to watch demo video](images/Recording%202025-07-02%20112543.mp4)
+## 🎥 Demo - Website Monitoring with n8n
+
+Web development is rapidly evolving — now with the rise of LLMs and automation, even websites can be monitored, maintained, and even built using AI tools.  
+Watch how this no-code **Website Monitoring System** built with **n8n** can send Gmail alerts when your site goes down.
+
+[![Watch the demo video](images/demo-thumbnail.png)](https://drive.google.com/file/d/1tNGVxUTpx0D8uO9SnCn2m6ZEDkUz1EAz/view?usp=sharing)
+
+> 🔗 Click the image above to watch the screen recording.
+
 
 
 ---
