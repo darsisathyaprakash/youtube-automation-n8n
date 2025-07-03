@@ -74,6 +74,9 @@ I’m **Sathya Prakash Darsi**, currently learning **AI automation** and **workf
 
 📬 [My Portfolio](https://sathya-protfilo-web.netlify.app)
 
+[🎥 Click to watch demo video](images/Recording%202025-07-02%20112543.mp4)
+
+
 ---
 
 ## 💡 Tip for Others
