@@ -75,14 +75,17 @@ I’m **Sathya Prakash Darsi**, currently learning **AI automation** and **workf
 📬 [My Portfolio](https://sathya-protfilo-web.netlify.app)
 
 [🎥 Click to watch demo video](images/Recording%202025-07-02%20112543.mp4)
-## 🎥 Demo - Website Monitoring with n8n
+## 🤖 YouTube Automation with n8n + OpenAI
 
-Web development is rapidly evolving — now with the rise of LLMs and automation, even websites can be monitored, maintained, and even built using AI tools.  
-Watch how this no-code **Website Monitoring System** built with **n8n** can send Gmail alerts when your site goes down.
+In this project, I built an AI-powered YouTube automation workflow using **n8n** and **OpenAI**.  
+It takes prompts, generates video content, and automates the entire pipeline.  
+This showcases how **LLMs (Large Language Models)** and automation tools are changing the landscape of content creation.
 
-[![Watch the demo video](images/demo-thumbnail.png)](https://drive.google.com/file/d/1tNGVxUTpx0D8uO9SnCn2m6ZEDkUz1EAz/view?usp=sharing)
+🎬 **Demo Video**  
+[![Watch the demo video](images/youtube-automation-thumb.png)](https://drive.google.com/file/d/1tNGVxUTpx0D8uO9SnCn2m6ZEDkUz1EAz/view?usp=sharing)
 
-> 🔗 Click the image above to watch the screen recording.
+> Click the image above to watch the full screen recording of the automation in action!
+
 
 
 
